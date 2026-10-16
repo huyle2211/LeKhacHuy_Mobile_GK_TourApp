@@ -6,10 +6,17 @@
     "expo": "~58.0.12",
     "expo-status-bar": "~58.0.3",
     "react": "19.3.0",
-    "react-native": "0.88.0"
+    "react-": "testing-library/react-native",
+    "react-dom": "19.3.0",
+    "react-native": "0.88.0",
+    "react-native-safe-area-context": "~5.10.1",
+    "react-native-web": "^0.21.4"
   },
   "devDependencies": {
+    "@types/jest": "29.5.14",
     "@types/react": "~19.3.0",
+    "jest": "~29.7.0",
+    "jest-expo": "~58.0.11",
     "typescript": "~6.0.3"
   },
   "scripts": {
